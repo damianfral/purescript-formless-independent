@@ -10,7 +10,7 @@
   "author": "Anupam Jain <ajnsit@gmail.com> (https://github.com/ajnsit)",
   "license": "MIT",
   "devDependencies": {
-    "parcel-bundler": "^1.12.3",
+    "parcel-bundler": "^1.12.5",
     "purescript-psa": "^0.7.3"
   },
   "dependencies": {
